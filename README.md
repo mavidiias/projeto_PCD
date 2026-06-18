@@ -36,10 +36,10 @@ O notebook está organizado com começo, meio e fim, guiando o leitor por cada e
  
 ## Pré-requisitos
  
-Para executar o notebook, instale as bibliotecas necessárias rodando a célula de instalação no início do próprio notebook, ou manualmente:
+Para executar o notebook, instale as bibliotecas necessárias rodando a célula abaixo no próprio notebook:
  
 ```bash
-pip install rdkit plotly networkx pubchempy ipywidgets
+!pip install rdkit plotly networkx pubchempy ipywidgets
 ```
  
 Após a instalação, reinicie o kernel do JupyterLab antes de executar o restante do notebook.
