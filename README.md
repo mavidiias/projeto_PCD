@@ -1,13 +1,13 @@
 ![Imagem Ilum](header_ilum.png)
 
 # Projeto final - Visualizador 3D de Moléculas
-<b>**Autora:**</b> Maria Vitória Dias Meneses (https://github.com/mavidiias)
+**Autora:** Maria Vitória Dias Meneses (https://github.com/mavidiias)
 <br>
-<b>**Instituição:**</b> Ilum Escola de Ciência / CNPEM
+*Instituição:* Ilum Escola de Ciência / CNPEM
 <br>
-<b>**Disciplina:**</b> Práticas Básicas em Ciência de Dados
+**Disciplina:** Práticas Básicas em Ciência de Dados
 <br>
-<b>**Professores Responsáveis:**</b>
+**Professores Responsáveis:**
 <ul>
   <li>Prof. Dr. Daniel Roberto Cassar (https://github.com/drcassar)</li>
   <li>Prof. Dr. James Moraes de Almeida (https://github.com/jamesmalmeida)</li>
