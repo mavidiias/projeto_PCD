@@ -88,5 +88,27 @@ Após a instalação, reinicie o kernel do JupyterLab antes de executar o restan
 | Cafeína | `Cn1cnc2c1c(=O)n(c(=O)n2C)C` |
  
 ---
+
+## Referências
+ 
+WEININGER, D. SMILES, a chemical language and information system. 1. Introduction to methodology and encoding rules. **Journal of Chemical Information and Computer Sciences**, v. 28, n. 1, p. 31–36, 1988. DOI: 10.1021/ci00057a005.
+
+<br>
+
+LANDRUM, G. et al. **RDKit: Open-Source Cheminformatics**. Versão 2026.03.2. Disponível em: https://www.rdkit.org. Acesso em: 18 jun. 2026.
+
+<br>
+
+HAGBERG, A. A.; SCHULT, D. A.; SWART, P. J. Exploring network structure, dynamics, and function using NetworkX. In: **Proceedings of the 7th Python in Science Conference (SciPy 2008)**, Pasadena, CA, EUA, ago. 2008. p. 11–15.
+
+<br>
+
+PLOTLY TECHNOLOGIES INC. **Collaborative data science**. Montreal, QC: Plotly Technologies Inc., 2015. Disponível em: https://plotly.com. Acesso em: 18 jun. 2026.
+
+<br>
+
+KIM, S. et al. PubChem 2023 update. **Nucleic Acids Research**, v. 51, n. D1, p. D1373–D1380, 2023. DOI: 10.1093/nar/gkac956.
+ 
+---
  
 *Desenvolvido com Python 3.13 em JupyterLab.*
