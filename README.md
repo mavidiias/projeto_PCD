@@ -3,7 +3,7 @@
 # Projeto final - Visualizador 3D de Moléculas
 **Autora:** Maria Vitória Dias Meneses (https://github.com/mavidiias)
 <br>
-*Instituição:* Ilum Escola de Ciência / CNPEM
+**Instituição:** Ilum Escola de Ciência / CNPEM
 <br>
 **Disciplina:** Práticas Básicas em Ciência de Dados
 <br>
