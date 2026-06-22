@@ -36,6 +36,7 @@ O notebook está organizado com começo, meio e fim, guiando o leitor por cada e
 📁 repositório
 │
 ├── .gitignore
+├── header_ilum.png
 ├── LICENSE
 ├── visuamolecula.ipynb   ← abra este arquivo para ver o projeto completo
 └── README.md
